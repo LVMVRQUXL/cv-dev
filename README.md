@@ -7,29 +7,24 @@ _Développeur fullstack web & mobile basé à Paris, France._
 ### 👨‍💼 Expériences professionnelles
 
 - **Développeur Web & Mobile** @ [BforBank] _(depuis Sept. 2019)_
-  - Développement _from scratch_ d'un outil de monitoring facilitant les tests applicatifs ;
+  - Développement _from scratch_ d'un outil de monitoring interne ;
   - Développement d'un micro-service dédié à la gestion des mandats de prélèvements des utilisateurs ;
-  - Développement d'une mire d'authentification dans le cadre de _[La Directive sur les Services de Paiement (DSP2)][dsp2]_ ;
+  - Développement d'une mire d'authentification pour la _[DSP2]_ ;
   - _**Technologies utilisées :** [Angular] / [Java] / [Spring Boot][spring-boot]._
 
 ### 👨‍💻 Réalisations
 
-- **[It's T.Lion][itstlion]** - Site officiel de l'artiste _[T.Lion][tlion]_
-  - _**Technologies utilisées :** [Angular] / [Java] / [Javalin] / [Kotlin] ;_
-  - _**Liens :** [Projets Github][itstlion-github] / [Site][itstlion]._
-- **[TheKoLab]** - Application _Android_ dédiée à l'expérimentation
-  - _**Technologies utilisées :** [Kotlin] ;_
-  - _**Liens :** [Projet Github][thekolab]._
+| Projet                     | [It's T.Lion][itstlion]                              | [TheKoLab]                                       |
+| -------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| **Description**            | Site officiel de l'artiste _[T.Lion][tlion]_         | Application _Android_ dédiée à l'expérimentation |
+| **Technologies utilisées** | [Angular] / [Java] / [Javalin] / [Kotlin]            | [Kotlin]                                         |
+| **Liens**                  | [Projets Github][itstlion-github] / [Site][itstlion] | [Projet Github][thekolab]                        |
 
-### 💻 Langages de programmation
+### 💻 Compétences
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVMVRQUXL&langs_count=4&layout=compact&hide_title=true" />
-
-### 🌍 Langues
-
-- **Français :** Maternelle
-- **Anglais :** Technique & B1
-- **Espagnol :** B1
+| Langues                                                                            | Langages de programmation                                                                                                           |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Français :** Maternelle <br> **Anglais :** Technique & B1 <br> **Espagnol :** B1 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVMVRQUXL&langs_count=4&layout=compact&hide_title=true" /> |
 
 ### 👨‍🎓 Education
 
