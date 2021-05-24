@@ -4,7 +4,7 @@ _Développeur fullstack web & mobile basé à Paris, France._
 
 ## 👨‍💼 Expériences professionnelles
 
-**Développeur Web & Mobile** @ [BforBank] _(Depuis Septembre 2019)_
+**Développeur Web & Mobile** @ [BforBank] _(Depuis Septembre 2019)_ <br>
 Banque en ligne proposant des services de banque au quotidien, d'épargne, de placement et de crédit.
 
 - Développement _from scratch_ d'un outil de monitoring facilitant les tests applicatifs ;
@@ -21,9 +21,7 @@ Banque en ligne proposant des services de banque au quotidien, d'épargne, de pl
 - _**Technologies utilisées :**_
   - _API : [Javalin] / [JUnit] / [Kotlin] / [Maven] / [PostgreSQL] ;_
   - _Frontend : [Angular] / [CSS] / [HTML] / [NPM] / [TypeScript]._
-- _**Liens :** [Projets Github][itstlion-github] / [Site][itstlion]._
-
-<br/>
+- _**Liens :** [Projets Github][itstlion-github] / [Site][itstlion]._ <br><br>
 
 **[TheKoLab]** - Application _Android_ dédiée à l'expérimentation
 
@@ -42,10 +40,10 @@ Banque en ligne proposant des services de banque au quotidien, d'épargne, de pl
 
 ## 👨‍🎓 Education
 
-**Bachelor Architecture des Logiciels** @ [Ecole Supérieure de Génie Informatique (ESGI)][esgi]
+**Bachelor Architecture des Logiciels** @ [Ecole Supérieure de Génie Informatique (ESGI)][esgi] <br>
 Paris, France - _(Septembre 2019 - Juillet 2020)_
 
-**Licence Informatique** @ [Université de Paris][université-de-paris]
+**Licence Informatique** @ [Université de Paris][université-de-paris] <br>
 Paris, France - _(Septembre 2017 - Juin 2019)_
 
 <!-- SHARED LINKS -->
