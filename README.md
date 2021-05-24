@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Loïc Lamarque
 
-You can use the [editor on GitHub](https://github.com/LVMVRQUXL/cv-dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Développeur fullstack web & mobile basé à Paris, France._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- TODO: Ajouter les liens de contact -->
+<!-- TODO: Ajouter un sommaire -->
 
-### Markdown
+## Expériences professionnelles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Développeur Web & Mobile @ [BforBank] _(Depuis Septembre 2019)_
 
-```markdown
-Syntax highlighted code block
+Banque en ligne proposant des services de banque au quotidien, d'épargne, de placement et de crédit.
 
-# Header 1
-## Header 2
-### Header 3
+#### Activités
 
-- Bulleted
-- List
+- Refonte graphique d'une plateforme de connexion pour un client <!-- TODO: A vérifier dans mon dernier rapport d'activité -->
+- Résolution de bugs sur des microservices
+- Développement _from scratch_ d'un outil de monitoring facilitant les tests applicatifs
 
-1. Numbered
-2. List
+#### Environnement technologique
 
-**Bold** and _Italic_ and `Code` text
+- [Angular 9 & 10][angular] _(HTML / CSS / TypeScript)_
+- [Java 11][java]
+- [Spring Boot 2][spring-boot]
+- [PostgreSQL 12][postgresql]
 
-[Link](url) and ![Image](src)
-```
+[angular]: https://angular.io
+[bforbank]: https://www.bforbank.com
+[java]: https://www.java.com
+[postgresql]: https://www.postgresql.org
+[spring-boot]: https://spring.io/projects/spring-boot
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Réalisations
 
-### Jekyll Themes
+## Technologies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LVMVRQUXL/cv-dev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Langues
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Formation
