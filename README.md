@@ -14,11 +14,10 @@ _Développeur fullstack web & mobile basé à Paris, France._
 
 ### 👨‍💻 Réalisations
 
-| Projet                     | [It's T.Lion][itstlion]                              | [TheKoLab]                                       |
-| -------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
-| **Description**            | Site officiel de l'artiste _[T.Lion][tlion]_         | Application _Android_ dédiée à l'expérimentation |
-| **Technologies utilisées** | [Angular] / [Java] / [Javalin] / [Kotlin]            | [Kotlin]                                         |
-| **Liens**                  | [Projets Github][itstlion-github] / [Site][itstlion] | [Projet Github][thekolab]                        |
+| [It's T.Lion][itstlion-github]               | [TheKoLab]                                       |
+| -------------------------------------------- | ------------------------------------------------ |
+| Site officiel de l'artiste _[T.Lion][tlion]_ | Application _Android_ dédiée à l'expérimentation |
+| [Angular] / [Javalin] / [Kotlin]             | [Kotlin]                                         |
 
 ### 💻 Compétences
 
@@ -39,7 +38,6 @@ _Développeur fullstack web & mobile basé à Paris, France._
 [email]: mailto:loiclamarque777@gmail.com
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/LVMVRQUXL
-[itstlion]: https://www.itstlion.com
 [itstlion-github]: https://github.com/itstlion
 [java]: https://www.java.com
 [javalin]: https://javalin.io
