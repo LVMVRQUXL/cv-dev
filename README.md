@@ -4,7 +4,7 @@ _Développeur fullstack web & mobile basé à Paris, France._
 
 [Email] / [GitHub] / [LinkedIn]
 
-## 👨‍💼 Expériences professionnelles
+### 👨‍💼 Expériences professionnelles
 
 - **Développeur Web & Mobile** @ [BforBank] _(depuis Sept. 2019)_
   - Développement _from scratch_ d'un outil de monitoring facilitant les tests applicatifs ;
@@ -12,7 +12,7 @@ _Développeur fullstack web & mobile basé à Paris, France._
   - Développement d'une mire d'authentification dans le cadre de _[La Directive sur les Services de Paiement (DSP2)][dsp2]_ ;
   - _**Technologies utilisées :** [Angular] / [Java] / [Spring Boot][spring-boot]._
 
-## 👨‍💻 Réalisations
+### 👨‍💻 Réalisations
 
 - **[It's T.Lion][itstlion]** - Site officiel de l'artiste _[T.Lion][tlion]_
   - _**Technologies utilisées :** [Angular] / [Java] / [Javalin] / [Kotlin] ;_
@@ -21,17 +21,17 @@ _Développeur fullstack web & mobile basé à Paris, France._
   - _**Technologies utilisées :** [Kotlin] ;_
   - _**Liens :** [Projet Github][thekolab]._
 
-## 💻 Langages de programmation
+### 💻 Langages de programmation
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVMVRQUXL&langs_count=4&layout=compact&hide_title=true" />
 
-## 🌍 Langues
+### 🌍 Langues
 
 - **Français :** Maternelle
 - **Anglais :** Technique & B1
 - **Espagnol :** B1
 
-## 👨‍🎓 Education
+### 👨‍🎓 Education
 
 - **Bachelor Architecture des Logiciels** @ [ESGI][esgi] _(Sept. 2019 - Juill. 2020)_
 - **Licence Informatique** @ [Université de Paris][université-de-paris] _(Sept. 2017 - Juin 2019)_
