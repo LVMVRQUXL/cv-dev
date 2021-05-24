@@ -1,6 +1,6 @@
 # Loïc Lamarque
 
-_Développeur fullstack web & mobile basé à Paris, France._
+_Développeur full stack web & mobile basé à Paris, France._
 
 **Contact :** [loiclamarque777@gmail.com][email] / [GitHub] / [LinkedIn]
 
