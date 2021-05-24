@@ -1,3 +1,8 @@
+---
+description: CV professionnel de Loïc Lamarque
+title: Loïc Lamarque
+---
+
 # Loïc Lamarque
 
 _Développeur fullstack web & mobile basé à Paris, France._
