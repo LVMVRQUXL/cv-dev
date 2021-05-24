@@ -23,7 +23,7 @@ _Développeur fullstack web & mobile basé à Paris, France._
 
 ## 💻 Langages de programmation
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVMVRQUXL&langs_count=8&layout=compact&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVMVRQUXL&langs_count=4&layout=compact&hide_title=true" />
 
 ## 🌍 Langues
 
