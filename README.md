@@ -7,8 +7,8 @@ _Développeur fullstack web & mobile basé à Paris, France._
 ### 👨‍💼 Expériences professionnelles
 
 - **Développeur Web & Mobile** @ [BforBank] _(depuis Sept. 2019)_
-  - Développement d'un outil de monitoring interne ;
-  - Développement d'un micro-service gérant les mandats de prélèvements ;
+  - Développement d'un outil de monitoring interne
+  - Développement d'un micro-service gérant les mandats de prélèvements
   - _**Technologies utilisées :** [Angular] / [Java] / [Spring Boot][spring-boot]._
 
 ### 👨‍💻 Réalisations
@@ -26,7 +26,7 @@ _Développeur fullstack web & mobile basé à Paris, France._
 
 ### 👨‍🎓 Education
 
-- **Bachelor Architecture des Logiciels** @ [ESGI][esgi] _(Sept. 2019 - Juill. 2020)_ ;
+- **Bachelor Architecture des Logiciels** @ [ESGI][esgi] _(Sept. 2019 - Juill. 2020)_
 - **Licence Informatique** @ [Université de Paris][université-de-paris] _(Sept. 2017 - Juin 2019)_.
 
 <!-- SHARED LINKS -->
