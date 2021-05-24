@@ -2,14 +2,13 @@
 
 _Développeur fullstack web & mobile basé à Paris, France._
 
-[Email] / [GitHub] / [LinkedIn]
+**Contact :** [loiclamarque777@gmail.com][email] / [GitHub] / [LinkedIn]
 
 ### 👨‍💼 Expériences professionnelles
 
 - **Développeur Web & Mobile** @ [BforBank] _(depuis Sept. 2019)_
-  - Développement _from scratch_ d'un outil de monitoring interne ;
-  - Développement d'un micro-service dédié à la gestion des mandats de prélèvements des utilisateurs ;
-  - Développement d'une mire d'authentification pour la _[DSP2]_ ;
+  - Développement d'un outil de monitoring interne ;
+  - Développement d'un micro-service gérant les mandats de prélèvements ;
   - _**Technologies utilisées :** [Angular] / [Java] / [Spring Boot][spring-boot]._
 
 ### 👨‍💻 Réalisations
@@ -27,14 +26,13 @@ _Développeur fullstack web & mobile basé à Paris, France._
 
 ### 👨‍🎓 Education
 
-- **Bachelor Architecture des Logiciels** @ [ESGI][esgi] _(Sept. 2019 - Juill. 2020)_
-- **Licence Informatique** @ [Université de Paris][université-de-paris] _(Sept. 2017 - Juin 2019)_
+- **Bachelor Architecture des Logiciels** @ [ESGI][esgi] _(Sept. 2019 - Juill. 2020)_ ;
+- **Licence Informatique** @ [Université de Paris][université-de-paris] _(Sept. 2017 - Juin 2019)_.
 
 <!-- SHARED LINKS -->
 
 [angular]: https://angular.io
 [bforbank]: https://www.bforbank.com
-[dsp2]: https://fr.wikipedia.org/wiki/Directive_sur_les_services_de_paiement
 [email]: mailto:loiclamarque777@gmail.com
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/LVMVRQUXL
