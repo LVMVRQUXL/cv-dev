@@ -1,13 +1,6 @@
----
-description: CV professionnel de Loïc Lamarque
-title: Loïc Lamarque
----
-
-# Loïc Lamarque
-
 _Développeur fullstack web & mobile basé à Paris, France._
 
-<!-- TODO: Ajouter les liens de contact -->
+[Email] / [GitHub] / [LinkedIn]
 
 ## 👨‍💼 Expériences professionnelles
 
@@ -62,7 +55,9 @@ Paris, France - _(Septembre 2017 - Juin 2019)_
 [bforbank]: https://www.bforbank.com
 [css]: https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade
 [dsp2]: https://fr.wikipedia.org/wiki/Directive_sur_les_services_de_paiement
+[email]: mailto:loiclamarque777@gmail.com
 [esgi]: https://www.esgi.fr
+[github]: https://github.com/LVMVRQUXL
 [html]: https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
 [itstlion]: https://www.itstlion.com
 [itstlion-github]: https://github.com/itstlion
@@ -70,6 +65,7 @@ Paris, France - _(Septembre 2017 - Juin 2019)_
 [javalin]: https://javalin.io
 [junit]: https://junit.org/junit5
 [kotlin]: https://kotlinlang.org
+[linkedin]: https://fr.linkedin.com/in/lamarque-loic
 [maven]: https://maven.apache.org
 [npm]: https://www.npmjs.com
 [postgresql]: https://www.postgresql.org
