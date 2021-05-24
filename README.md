@@ -42,7 +42,7 @@ Banque en ligne proposant des services de banque au quotidien, d'épargne, de pl
 
 ## 👨‍🎓 Education
 
-**Bachelor Architecture des Logiciels** @ [Ecole Supérieure de Génie Informatique (ESGI)][esgi] <br>
+**Bachelor Architecture des Logiciels** @ [ESGI][esgi] <br>
 Paris, France - _(Septembre 2019 - Juillet 2020)_
 
 **Licence Informatique** @ [Université de Paris][université-de-paris] <br>
