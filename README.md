@@ -22,7 +22,7 @@ _Développeur full stack web & mobile basé à Paris, France._
 
 | Langues                                                                            | Langages de programmation                                                                                                           |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Français :** Maternelle <br> **Anglais :** Technique & B1 <br> **Espagnol :** B1 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVMVRQUXL&langs_count=4&layout=compact&hide_title=true" /> |
+| **Français :** Maternelle <br> **Anglais :** Technique & B1 <br> **Espagnol :** B1 | **Java :** 5 ans <br> **Angular :** 4 ans <br> **Kotlin :** 2 ans |
 
 ### 👨‍🎓 Education
 
